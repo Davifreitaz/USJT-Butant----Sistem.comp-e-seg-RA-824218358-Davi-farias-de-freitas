@@ -1,0 +1,13 @@
+Tecnicas de ataques utlizados: 
+
+Tipos:
+1-I-frame e o que é ? o iFrame é uma tag ou etiqueta em um documento HTML que viabiliza a inclusão de outro documento HTML dentro do primeiro. Em outras palavras, ele permite que, a partir de uma página inicial, seja possível abrir uma seção de outra página qualquer,Ifames podem representar riscos de segurança, como ataques de clickjacking (quando um conteúdo malicioso é carregado em um iframe disfarçado), e, por isso, muitos sites implementam a política X-Frame-Options para restringir onde o conteúdo pode ser carregado.
+
+2-Exploit e o que é ? Um exploit é um código, software ou técnica que se aproveita de uma vulnerabilidade ou falha em um sistema, software ou rede para realizar uma ação maliciosa ou ganhar acesso não autorizado. Essas vulnerabilidades podem ser causadas por falhas no design, erros de programação ou configurações incorretas.Com um exploit eu posso obter acesso a sistemas, Aumentar nivel de acesso dentro de um sistema,Executar codigos maliciosos e distribuir o meu proprio malware e interromper serviçõs como DDOS 
+
+
+Tecnicas: Pelo o que pude ver no video uma das tecnicas que Brian usou para roubar dados de carros a serem lançados pela empresa aupticon foram.
+
+1- Acessou o site da aupticon e pesquisou os nomes de todos os engenheiros que trabalham lá, olhando tudo de ponta a ponta ele acabou encontrando um clube de boliche que os funcinarios frequentavam, uma clube de boliche com um sistema de segurança arcaico, lá ele encotrou nomes de varias outras empresas,nomes de jogadores e etc...
+
+Nisso ele usou um meio de ataque usando o iframe e um software chamado exploit que ataca qualquer um que visita o site, apos isso uma funcionaria acessou o site por um notebook e teve o seu computador infectado com um malware que o mesmo tinha colocado no site 
